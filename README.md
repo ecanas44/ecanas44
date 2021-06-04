@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ecanas44
 - 👀 I’m interested in computational methods for environmental ecology.
-- 🌱 I’m currently learning remote sensing techniques.
+- 🌱 I’m currently learning remote sensing technique and ecological modelling.
 - 💞️ I’m looking to collaborate on tropical dry forest restoration.
 - 📫 You can reach me at ecanas44@gmail.com.
 
